@@ -40,5 +40,8 @@
       "value": "kibana-password",
       "required": true
     }
-  }
+  },
+  "addons": [
+    {"plan": "elasticsearch:elasticsearch-sandbox"}
+  ]
 }
