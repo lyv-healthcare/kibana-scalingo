@@ -42,6 +42,6 @@
     }
   },
   "addons": [
-    {"plan": "elasticsearch:elasticsearch-sandbox"}
+    {"plan": "elasticsearch:elasticsearch-starter-512"}
   ]
 }
