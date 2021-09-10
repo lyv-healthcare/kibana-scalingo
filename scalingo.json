@@ -12,7 +12,7 @@
   "env": {
     "ELASTICSEARCH_URL": {
       "description": "URL to the Elasticsearch cluster you want to use with Kibana",
-      "value": "",
+      "value": "$SCALINGO_ELASTICSEARCH_URL",
       "required": true
     },
     "ELASTICSEARCH_TLS_CA_URL": {
