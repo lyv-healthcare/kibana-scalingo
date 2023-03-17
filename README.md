@@ -2,7 +2,7 @@
 
 Run your own Kibana instance with one click.
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/Scalingo/kibana-scalingo)
 
 Documentation about the buildback [https://github.com/Scalingo/kibana-buildpack](https://github.com/Scalingo/kibana-buildpack)
 
