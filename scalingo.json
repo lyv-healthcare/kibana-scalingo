@@ -27,7 +27,7 @@
     },
     "BUILDPACK_URL": {
       "description": "Buildpack to use to deploy kibana",
-      "value": "https://github.com/Scalingo/kibana-buildpack",
+      "value": "https://github.com/lyv-healthcare/lyv-kibana-buildpack",
       "required": true
     },
     "KIBANA_USER": {
